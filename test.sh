@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo "test-4"
+echo "test-6"
 echo "$(date) " > /tmp/test
