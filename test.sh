@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "$(date)" > /tmp/test
+echo "$(date) " > /tmp/test
